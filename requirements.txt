@@ -1,4 +1,0 @@
-streamlit
-rdkit
-pandas
-pillow
